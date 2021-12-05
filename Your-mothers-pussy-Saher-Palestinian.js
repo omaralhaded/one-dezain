@@ -24,7 +24,6 @@ $(".uzr .co").css({width:'18px',height:'18px','margin-top':'-1px'});
 $('body').css('line-height', 'normal!important');
 $('.tablebox').css({'height':'42px','padding':'4px'});
 $(".umod").remove();
-(document.getElementById("tbox").placeholder = " مـآ يلـفظ من قـول الا لـديه رقـيب عتيـد ");
 $("div#l3 button.btn.btn-primary").bind("click",function(){alert("عند تسجيلك للعضوية فانك توافق على قوانين جوال آحبـك واي اختلال في القوانين سيتم حظرك وحذف العضوية");})
 $("div#l2 button.btn.btn-primary").bind("click",function(){alert("اهلا وسهلا بكم في عائلتنا عائلة شات جوال آحبـك");})
 $("#uhtml .flex-grow-1").css("overflow","hidden");
